@@ -1,0 +1,51 @@
+,id,title,first_artist,artist_genre,artist_popularity,all_artists,danceability,energy,key,loudness,mode,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,track_popularity
+0,70DE8f3cq3auql4JMrF0Qg,ทักครับ,Lipta,['thai pop'],54,"['Lipta', 'GUYGEEGEE']",0.838,0.635,1,-5.929,1,0.136,0.0,0.0709,0.96,97.051,191500,4,60
+1,5oH4DQAuu1J1800RzUsBWa,That That (prod. & feat. SUGA of BTS),PSY,"['k-pop', 'k-rap', 'korean old school hip hop']",74,"['PSY', 'SUGA']",0.905,0.962,4,-3.197,1,0.0299,0.0,0.0272,0.906,129.969,174647,4,83
+2,2gzhQaCTeNgxpeB2TPllyY,With you,Jimin,[],75,"['Jimin', 'HA SUNG WOON']",0.532,0.426,3,-6.117,1,0.639,0.0,0.134,0.137,149.898,201905,3,87
+3,3crZQarcOagdupRZNzRGWe,ถ้าเราเจอกันอีก (Until Then),Tilly Birds,"['thai indie rock', 'thai pop']",61,['Tilly Birds'],0.481,0.512,3,-6.365,1,0.496,0.0,0.157,0.314,75.876,288250,4,65
+4,2m6Ko3CY1qXNNja8AlugNc,Angel Baby,Troye Sivan,"['australian pop', 'dance pop', 'electropop', 'pop', 'viral pop']",81,['Troye Sivan'],0.559,0.559,11,-6.425,1,0.0145,0.0,0.138,0.338,72.498,220780,4,79
+5,2MnVrkbwL6ViB7q4NI7oVK,ฉบับปรับปรุง,ZENTYARB,['thai pop'],54,"['ZENTYARB', 'PUNYARB', 'Lazyloxy']",0.552,0.694,11,-7.436,1,0.2,0.0,0.112,0.419,165.951,244736,4,63
+6,2bGK8OZkr2IH4XHFMWS3CZ,ถ้าเธอ feat. Violette Wautier,Stamp,['thai pop'],56,"['Stamp', 'Violette Wautier']",0.644,0.446,8,-7.629,1,0.812,0.0,0.13,0.455,84.976,199500,4,63
+7,296nXCOv97WJNRWzIBQnoj,FEARLESS,LE SSERAFIM,['k-pop'],66,['LE SSERAFIM'],0.863,0.62,7,-7.167,1,0.0508,0.00324,0.129,0.432,103.971,168437,4,73
+8,4LRPiXqCikLlN15c3yImP7,As It Was,Harry Styles,['pop'],93,['Harry Styles'],0.52,0.731,6,-5.338,0,0.342,0.00101,0.311,0.662,173.93,167303,4,100
+9,6MjLHdROTcaU22k7B6gxR6,พิง - เพลงประกอบละคร กระเช้าสีดา,NONT TANONT,['thai pop'],55,['NONT TANONT'],0.614,0.528,10,-7.693,1,0.393,0.0,0.105,0.46,132.075,242727,4,63
+10,0dcnrLo8s1rhjm8euGjI4n,DARARI,TREASURE,['k-pop'],75,['TREASURE'],0.716,0.638,0,-6.87,1,0.486,0.0,0.0702,0.552,84.955,220716,4,82
+11,1rNYuv63emsYt4Jjv8RlgJ,เจ้าของที่ (My Favorite),Mirrr,"['thai indie pop', 'thai pop']",55,['Mirrr'],0.631,0.822,5,-4.793,1,0.213,0.00101,0.212,0.879,149.886,240008,4,51
+12,3imt8APLtyXVGsLZM362nA,เสแสร้ง (Pretend),Paper Planes,"['fake', 'thai rock']",50,"['Paper Planes', 'Moon']",0.545,0.87,2,-4.759,1,0.00273,0.0,0.491,0.473,159.932,223125,4,61
+13,3BV2YcwoVRxK4dXxyaHpZU,Lavender,Patrickananda,[],58,['Patrickananda'],0.597,0.456,11,-6.37,1,0.374,0.0,0.204,0.472,128.076,253142,3,62
+14,315ar0QJiyciYkdVJUGA3w,ต่อจากนี้เพลงรักทุกเพลงจะเป็นของเธอเท่านั้น,No One Else,[],50,['No One Else'],0.502,0.637,9,-6.214,1,0.221,0.0,0.212,0.485,169.896,254500,4,62
+15,63VOJDNJ3a5dve74kzWVcF,คนไกล,Patrickananda,[],58,['Patrickananda'],0.638,0.193,9,-12.366,1,0.779,0.0,0.316,0.55,140.118,212571,4,61
+16,1CfKHIQhgKrUMAkj4VwI4J,17 นาที,MILLI,"['thai hip hop', 'thai trap']",61,"['MILLI', 'mints']",0.948,0.42,11,-8.481,1,0.109,0.0,0.092,0.695,117.963,215593,4,61
+17,2qKXdSbREFW4Py3i7leW0r,SuperCarCare,Tattoo Colour,['thai pop'],61,"['Tattoo Colour', 'D Gerrard']",0.63,0.776,7,-5.049,1,0.428,0.0,0.162,0.944,163.975,207073,4,61
+18,6SaADaULbCkQ2NZPYD9vaF,ได้แต่นึกถึง,Only Monday,[],48,['Only Monday'],0.504,0.724,8,-5.612,1,0.025,0.0014,0.316,0.68,156.034,264763,4,60
+19,3Js0tYhiLhVXHskoOF0jLh,บานปลาย (best wishes),BOWKYLION,"['thai indie pop', 'thai pop']",57,['BOWKYLION'],0.584,0.656,6,-6.632,1,0.568,1.19e-05,0.0791,0.547,175.718,289777,4,61
+20,7MxhdBolnOFvWu4WMURsX5,ทราบแล้วเปลี่ยน - attention please,BOWKYLION,"['thai indie pop', 'thai pop']",57,['BOWKYLION'],0.714,0.461,5,-8.484,0,0.528,0.0,0.379,0.785,91.034,235385,4,60
+21,1pFNuRW1pWWrDvw3d6HFfR,ใจหายอ่ะ สงสัยอยู่ที่เธอ - AirTag,Praesun,[],46,['Praesun'],0.714,0.638,6,-4.157,0,0.694,0.0,0.365,0.798,98.01,198980,4,59
+22,1XVQu6SXMMEJ3nc9BOGhgk,The Weekend - MILLI Remix,88rising,"['asian american hip hop', 'pop']",73,"['88rising', 'BIBI', 'MILLI']",0.797,0.543,1,-5.654,1,0.111,0.0,0.08,0.879,101.498,168853,4,63
+23,3YN1Qgpgt5xVurl2mUFA4y,เพื่อนเล่น ไม่เล่นเพื่อน (Just Being Friendly),Tilly Birds,"['thai indie rock', 'thai pop']",61,"['Tilly Birds', 'MILLI']",0.793,0.576,5,-4.613,1,0.496,0.0,0.466,0.674,109.952,217787,4,55
+24,1ecud9LC1clhcuhjLIyyMB,Wish,Blackbeans,['thai indie rock'],55,['Blackbeans'],0.504,0.538,0,-8.745,1,0.128,0.0141,0.116,0.138,136.006,271765,4,60
+25,0Q5VnK2DYzRyfqQRJuUtvi,LOVE DIVE,IVE,"['k-pop', 'k-pop girl group']",76,['IVE'],0.703,0.709,1,-4.169,0,0.00379,5.43e-05,0.333,0.538,117.941,177187,4,85
+26,0QzuaeCEEOV40Pn7IvKEny,double take,dhruv,"['chill r&b', 'nyc pop', 'pop']",70,['dhruv'],0.656,0.436,8,-11.141,1,0.845,0.0,0.221,0.196,109.239,171743,4,79
+27,08OtCoRVu0sHp8dmCddtvg,หากเธอเคยรักใคร (IF YOU LOVE),Waii,"['thai pop', 'thai teen pop']",49,"['Waii', 'Koen']",0.663,0.557,2,-9.04,1,0.187,0.0,0.0871,0.386,97.939,215485,4,60
+28,2oBMZYteeO8DyXV9gDx6Za,Feel My Rhythm,Red Velvet,"['k-pop', 'k-pop girl group']",78,['Red Velvet'],0.412,0.94,1,-2.171,1,0.0648,0.0,0.358,0.423,157.964,210253,4,80
+29,4rDCI4NQEBQrfTFN5epRYU,อาหมวยหาย (阿妹走 / Chinese Girl),THE TOYS,['thai pop'],58,['THE TOYS'],0.783,0.509,0,-7.154,1,0.313,0.0,0.103,0.817,109.979,178909,4,59
+30,5PjdY0CKGZdEuoNab3yDmX,STAY (with Justin Bieber),The Kid LAROI,['australian hip hop'],88,"['The Kid LAROI', 'Justin Bieber']",0.591,0.764,1,-5.484,1,0.0383,0.0,0.103,0.478,169.928,141806,4,87
+31,2EPMa8Jm1h5XRH4jwf8yK9,คงต้องบอกลาแล้ว,Dept,['thai indie rock'],54,['Dept'],0.412,0.718,7,-7.903,1,0.00362,0.00162,0.102,0.432,160.057,270750,4,56
+32,15Xn4r9FY3725iHIfyq5hE,คำถาม,PUNYARB,['thai pop rap'],55,['PUNYARB'],0.8,0.524,10,-8.313,1,0.629,0.0,0.0787,0.486,106.985,206361,4,59
+33,4aDz9NTsLULSvewSLg8lih,เอาปากกามาวง,BELL WARISARA,[],52,['BELL WARISARA'],0.728,0.572,2,-6.933,1,0.402,0.0,0.148,0.682,89.987,204264,4,59
+34,2LBqCSwhJGcFQeTHMVGwy3,Die For You,The Weeknd,"['canadian contemporary r&b', 'canadian pop', 'pop']",96,['The Weeknd'],0.586,0.525,1,-7.163,0,0.111,0.0,0.134,0.508,133.629,260253,4,76
+35,6I3mqTwhRpn34SLVafSH7G,Ghost,Justin Bieber,"['canadian pop', 'pop']",95,['Justin Bieber'],0.601,0.741,2,-5.569,1,0.185,2.91e-05,0.415,0.441,153.96,153190,4,88
+36,0gEewSHZqPiNQa9DqeeUXj,วัดปะหล่ะ? (Test Me),4EVE,"['t-pop girl group', 'thai teen pop']",51,['4EVE'],0.832,0.632,1,-6.982,1,0.512,0.0,0.109,0.83,102.992,220794,4,60
+37,52h8p62Jx8KzQynM6heq7n,Sunkissed,Urworld,['thai pop rap'],48,['Urworld'],0.378,0.661,7,-6.221,0,0.436,0.0,0.157,0.509,118.055,242155,4,60
+38,5l3HFThm3Xlv8c9mmiTUgT,จันทร์อังคารพุธพฤหัสศุกร์เสาร์อาทิตย์ (Everyday),Patrickananda,[],58,['Patrickananda'],0.764,0.438,0,-8.651,1,0.541,0.0,0.103,0.72,89.993,182667,4,59
+39,68HocO7fx9z0MgDU0ZPHro,Every Summertime,NIKI,"['indonesian r&b', 'pop']",77,['NIKI'],0.628,0.676,6,-4.227,1,0.393,6.94e-05,0.0978,0.723,78.996,215687,4,82
+40,27OEf7iSIOJ14txp16xweP,ลา ลา ลา,Dept,['thai indie rock'],54,['Dept'],0.394,0.719,9,-6.071,1,0.00998,0.0,0.0528,0.24,178.005,253820,3,56
+41,7bHqlO1utHAs2yknWvVt1C,นอนไม่หลับ (Melatonin),Safeplanet,"['thai indie pop', 'thai pop']",53,['Safeplanet'],0.373,0.733,8,-7.787,1,0.013,0.00181,0.116,0.249,191.873,219062,4,55
+42,27qlKjzLoCOzltggfY8FPy,เป็นได้ทุกอย่าง,URBOYTJ,"['thai hip hop', 'thai pop']",57,['URBOYTJ'],0.768,0.585,6,-6.043,1,0.0703,0.0,0.129,0.803,87.999,191392,4,59
+43,1M2XakpRDkxjiuCirVPD8c,เมะ,THE TOYS,['thai pop'],58,['THE TOYS'],0.756,0.677,0,-6.573,1,0.276,4.5e-06,0.204,0.68,125.048,186000,4,59
+44,0AQkjLgo2ATGnv8EO2xKyJ,แฟนเก่าคนโปรด,SLAPKISS,['thai pop'],49,['SLAPKISS'],0.729,0.766,6,-5.697,1,0.123,0.0,0.337,0.955,120.036,216000,4,59
+45,03Pc18Z9L1n2LcyBb6SKZ1,ฟีโรโมน,BlackHeart,['thai viral pop'],46,"['BlackHeart', '2TFLOW']",0.687,0.467,8,-10.913,1,0.857,0.0,0.121,0.394,117.124,220000,3,58
+46,7xNCacksfUkYXsXuSW4vNF,PS5 (with TOMORROW X TOGETHER & Alan Walker),salem ilese,"['alt z', 'modern indie pop', 'pop', 'social media pop']",72,"['salem ilese', 'TOMORROW X TOGETHER', 'Alan Walker']",0.602,0.642,2,-5.404,0,0.0131,5.33e-06,0.0668,0.54,175.978,152214,4,78
+47,4iJyoBOLtHqaGxP12qzhQI,Peaches (feat. Daniel Caesar & Giveon),Justin Bieber,"['canadian pop', 'pop']",95,"['Justin Bieber', 'Daniel Caesar', 'Giveon']",0.677,0.696,0,-6.181,1,0.321,0.0,0.42,0.464,90.03,198082,4,85
+48,4OHu1M6xtQLkgTSao8nYS3,ไม่ยินดี,SAMBLACK,['thai trap'],49,['SAMBLACK'],0.794,0.653,2,-8.258,1,0.222,0.0,0.0916,0.58,90.996,233317,4,58
+49,3kVApGWaoR48GzDagnY55b,ถ้าเธอรักฉันจริง,Three Man Down,"['thai indie pop', 'thai pop']",58,['Three Man Down'],0.423,0.713,3,-5.021,1,0.135,0.0,0.0884,0.471,170.087,240250,4,52
